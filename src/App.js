@@ -1,5 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import initializeAuthentication from './Firebase/firebase.init';
+
+
+// firebase authentication
+initializeAuthentication();
+
+
 
 function App() {
   return (
