@@ -1,0 +1,7 @@
+.nav-item a{
+    font-weight: 700;
+    color: rgb(80, 66, 66);
+}
+.nav-item a:hover{
+   color: #FD9704;
+}

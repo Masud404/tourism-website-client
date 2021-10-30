@@ -1,0 +1,19 @@
+.work-title{
+   font-weight: 700;
+    color: #137ECB;
+}
+.side-img{
+    border-radius: 10px;
+}
+.read-more-button{
+    width: 25%;
+    height: 50px;
+    border: 2px solid #FD9704;
+    border-radius: 10px;
+    color: #FD9704;
+    font-weight: 500;
+}
+.read-more-button:hover{
+    background-color: #FD9704;
+    color: white;
+}

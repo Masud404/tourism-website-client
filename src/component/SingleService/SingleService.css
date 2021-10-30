@@ -1,0 +1,31 @@
+.service-card{
+    height: 500px;
+    border: none;
+    border-radius: 20px;
+    z-index: 0;
+    transition: 0.3s all;
+}
+
+.service-card:hover{
+    z-index: 1;
+    box-shadow: 0px 8px 50px rgb(50, 124, 207);
+    transform: scale(1.05);
+}
+
+.service-card img{
+    border-radius: 20px;
+}
+
+/* book now button */
+.book-now-button{
+    width: 90%;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: #FD9704;
+    color: white;
+    font-weight: 500;
+}
+.book-now-button:hover{
+    background-color: #137ECB;
+}

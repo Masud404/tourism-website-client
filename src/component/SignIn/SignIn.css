@@ -1,0 +1,12 @@
+.google{
+    background-color: rgba(228, 83, 58, 0.931);
+    padding: 20px 50px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 10px;
+}
+.google:hover{
+    color: white;
+}

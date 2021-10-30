@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Kuta Beach",
+        "cost": 999,
+        "img": "https://i.ibb.co/SBpQb0C/Golden-sunset-over-Losari-beach-on-East-coast-of-Corsica-near-Ile-Rousse-France.jpg",
+        "people": "Per Person",
+        "description": "Kuta is a tourist area, administratively an urban village (kelurahan), and the capital of Kuta District, Badung Regency, southern Bali, Indonesia."
+    },
+    {
+        "id": 2,
+        "name": "Maldives",
+        "cost": 1299,
+        "img": "https://i.ibb.co/jHFthbH/beach12.webp",
+        "people": "Couple",
+        "description": "Maldives, in full Republic of Maldives, also called Maldive Islands, independent island country in the north-central Indian Ocean."
+    },
+    {
+        "id": 3,
+        "name": "Sanur Beach",
+        "cost": 799,
+        "img": "https://i.ibb.co/2KWypRb/aerial-view-of-the-pamunda-island-Zanzibar.jpg",
+        "people": "Per Person",
+        "description": "Sanur is a seaside town in the southeast of the island of Bali, in Indonesia. Its long stretch of beach offers shallow waters. "
+    },
+    {
+        "id": 4,
+        "name": "Paradise Island",
+        "cost": 999,
+        "img": "https://i.ibb.co/cYLf1Lb/Anse-Georgette-beach-in-Praslin-Island-Seychelles.jpg",
+        "people": "Per Person",
+        "description": "Perched in the North Male’ Atoll, and just a few kilometers away from the Velana International Airport, lies one of the most beautiful luxury resorts in Maldives, Paradise Island Resort."
+    },
+    {
+        "id": 5,
+        "name": "Nusa Indah Beach",
+        "cost": 1299,
+        "img": "https://i.ibb.co/WkJYLD1/beach04.jpg",
+        "people": "Couple",
+        "description": "Located in front of Lembongan Beach, Nusa Indah Bungalow features an outdoor pool and restaurant by the beach. Snorkeling, diving and surfing can be organized by the resort."
+    },
+    {
+        "id": 6,
+        "name": "Source d Argent, Seychelles",
+        "cost": 899,
+        "img": "https://i.ibb.co/DgwNXWT/Trunk-Bay-St-John-United-States-Virgin-Islands.jpg",
+        "people": "Per Person",
+        "description": "The absolutely breathtaking scenery is the real highlight of Anse Source d’Argent. The mixture of shallow, clear water, golden sand, and imposing granite formations."
+    },
+    {
+        "id": 7,
+        "name": "Dune du Pyla, France",
+        "cost": 699,
+        "img": "https://i.ibb.co/Z2JkHwc/beach06.webp",
+        "people": "Per Person",
+        "description": "The Dune of Pilat is located in the Gironde department in southwestern France. It is just at the entrance to the Arcachon Bay."
+    },
+    {
+        "id": 8,
+        "name": "Shoal Bay, Antigua",
+        "cost": 1599,
+        "img": "https://i.ibb.co/N2Jjy2b/beach07.webp",
+        "people": "Couple",
+        "description": "Shoal Bay Beach is perhaps Anguilla most famous beach. Just offshore from Shoal Bay Beach is a beautiful reef with pristine snorkeling and diving conditions."
+    },
+    {
+        "id": 9,
+        "name": "Cala Saona, Formentera",
+        "cost": 1299,
+        "img": "https://i.ibb.co/fYnjPL3/beach09.webp",
+        "people": "Couple",
+        "description": "Situated on the west coast of Formentera, Cala Saona is a picture perfect beach that also boasts the most stunning sunset views on the island."
+    },
+    {
+        "id": 10,
+        "name": "Glass Beach, California",
+        "cost": 1399,
+        "img": "https://i.ibb.co/3NRVKS2/beach08.webp",
+        "people": "Couple",
+        "description": "Glass Beach is a beach adjacent to MacKerricher State Park near Fort Bragg, California, named from a time when it was abundant with sea glass created from years."
+    },
+    {
+        "id": 11,
+        "name": "Starfish Beach, Panama",
+        "cost": 999,
+        "img": "https://i.ibb.co/frm862h/beach10.webp",
+        "people": "Per Person",
+        "description": "Starfish Beach is located on Isla Colon. You can either go there by bike or an ATV, or catch a colectivo bus from Bocas Town (the main town in Bocas del Toro) to Boca del Drago, which costs 2.50 USD."
+    },
+    {
+        "id": 12,
+        "name": "Fakistra, Greece",
+        "cost": 799,
+        "img": "https://i.ibb.co/s9CxZtF/beach11.webp",
+        "people": "Per Person",
+        "description": "Fakistra Beach Pelion: Fakistra is a lovely turquoise bay with soft sand and some rocky spots. This wonderful place is surrounded by huge cliffs with dense vegetation and boasts an exotic and quite wild scenery."
+    }
+]
