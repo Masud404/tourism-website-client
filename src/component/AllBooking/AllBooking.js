@@ -8,7 +8,7 @@ const AllBooking = () => {
     const [list, setList] = useState([])
 
     useEffect(() => {
-        const url = `http://localhost:5000/orders/${id}`
+        const url = `https://fathomless-atoll-57556.herokuapp.com/orders/${id}`
         fetch(url)
             .then(res => res.json())
             .then(data => setList(data))
@@ -16,7 +16,7 @@ const AllBooking = () => {
 
     // delete button
     const handleDelete = Name => {
-        const url = `http://localhost:5000/orders/${Name}`
+        const url = `https://fathomless-atoll-57556.herokuapp.com/orders/${Name}`
         fetch(url, {
             method: 'DELETE'
         })

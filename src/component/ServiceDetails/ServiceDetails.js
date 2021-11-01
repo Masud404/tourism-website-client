@@ -11,7 +11,7 @@ const ServiceDetails = () => {
     const { servicedetailsId } = useParams();
     const [detail, setDetail] = useState([]);
     useEffect(() => {
-        fetch('http://localhost:5000/services')
+        fetch('https://fathomless-atoll-57556.herokuapp.com/services')
             .then(res => res.json())
             .then(data => setDetail(data))
     }, [])
@@ -24,7 +24,7 @@ const ServiceDetails = () => {
         data.order = details?.name;
 
 
-        fetch('http://localhost:5000/orders', {
+        fetch('https://fathomless-atoll-57556.herokuapp.com/orders', {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'

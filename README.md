@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# VacaDay
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Server side github link
+https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-Masud404
 
-## Available Scripts
+### Client side github link
+https://github.com/programming-hero-web-course1/tourism-or-delivery-website-client-side-Masud404
 
-In the project directory, you can run:
+### Live site link
+https://tourism-or-delivery-webs-f014e.web.app/
 
-### `npm start`
+## Website Description
+Although many of us have been “tourists” at some point in our lives, defining what tourism actually is can be difficult. Tourism is the activities of people traveling to and staying in places outside their usual environment for leisure, business or other purposes for not more than one consecutive year.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Tourism is a dynamic and competitive industry that requires the ability to adapt constantly to customers’ changing needs and desires, as the customer’s satisfaction, safety and enjoyment are particularly the focus of tourism businesses.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### 1. The tourists coming to BC from other places are called inbound tourists. BC competes in a global market to attract tourists from the United States, Japan, Germany and many other countries.
 
-### `npm test`
+### 2. The industry also implements marketing campaigns aimed at attracting travellers from other parts of Canada, as well as from within British Columbia.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 3. Approximately half of the tourists in BC each year are actually from within the province.  BC Stats and Destination BC consider those travelling beyond their usual environment (typically more than 80 km from home) for business or for pleasure to be tourists.
 
-### `npm run build`
+### 4. There are different ways to measure the size of the tourism industry, as tourism does not conform to the usual ways that industries are defined, such as manufacturing, forestry and other industries. Tourism constitutes a wide variety of sectors that provide diverse products and services to visitors. However, these businesses also provide products and services to local residents.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 5. When describing the “tourism industry,” go2HR includes all 302,700 workers, because this is the number of people who need to be recruited and trained to support the businesses that serve both tourists and local residents. Economic reports may focus more on the 137,000 jobs created by direct tourism spending for different purposes. Both figures are correct.
