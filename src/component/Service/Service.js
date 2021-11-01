@@ -4,11 +4,11 @@ import SingleService from '../SingleService/SingleService';
 import './Service.css'
 
 
-
+// service section
 const Service = () => {
     const [service, setService] = useState([]);
     useEffect(() => {
-        fetch('data.json')
+        fetch('http://localhost:5000/services')
             .then(res => res.json())
             .then(data => setService(data))
     }, [])

@@ -5,6 +5,7 @@ import './Work.css'
 
 const Work = () => {
     return (
+        // how the team work section
         <div className="my-5">
             <Container>
                 <Row className="pt-5">

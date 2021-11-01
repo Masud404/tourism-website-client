@@ -1,0 +1,15 @@
+/* about us */
+.team{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 10px 50px gray;
+   transition: 0.3s all;
+}
+.team:hover{
+    transform: skew(5deg);
+}
+.team img{
+    text-align: center;
+    width: 40%;
+    border-radius: 100%;
+}

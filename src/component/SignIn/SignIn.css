@@ -6,6 +6,7 @@
     font-size: 20px;
     font-weight: 500;
     border-radius: 10px;
+    cursor: pointer;
 }
 .google:hover{
     color: white;

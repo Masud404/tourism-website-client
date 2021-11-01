@@ -7,6 +7,7 @@ import youtube from '../../Images/icon/icons8-youtube-48.png'
 
 const Footer = () => {
     return (
+        // features
         <div className="footer py-5">
             <Row className="mx-auto text-light fw-bold text-center mt-5">
                 <Col xs={6} md={3}>
@@ -16,12 +17,14 @@ const Footer = () => {
                     <small className="footer-small-text">Reward</small><br />
                     <small className="footer-small-text">Doorprize</small>
                 </Col>
+                {/* company */}
                 <Col xs={6} md={3}>
                     <h3 className="mb-4">Company</h3>
                     <small className="footer-small-text">Career</small><br />
                     <small className="footer-small-text">Help Center</small><br />
                     <small className="footer-small-text">FAQ</small>
                 </Col>
+                {/* follow us */}
                 <Col xs={6} md={3}>
                     <h3 className="mb-4">Follow Us</h3>
                     <img className="icon" src={google} alt="" />
@@ -29,6 +32,7 @@ const Footer = () => {
                     <img className="icon" src={youtube} alt="" />
 
                 </Col>
+                {/* get connected */}
                 <Col xs={6} md={3}>
                     <h3 className="mb-4">Get Connected</h3>
                     <small className="footer-small-text">Fullbarigate-Kuet</small><br />

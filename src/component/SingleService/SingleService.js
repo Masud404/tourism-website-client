@@ -1,9 +1,11 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import './SingleService.css'
 
+// single service section
 const SingleService = ({ service }) => {
-    const { name, img, description } = service;
+    const { name, img, description, _id } = service;
     return (
         <div>
             <Col className="mt-4">
@@ -14,7 +16,9 @@ const SingleService = ({ service }) => {
                         <Card.Text>
                             {description}
                         </Card.Text>
-                        <button className="book-now-button">Book Now</button>
+                        <Link to={`/servicedetails/${_id}`}>
+                            <button className="book-now-button">Book Now</button>
+                        </Link>
                     </Card.Body>
 
                 </Card>

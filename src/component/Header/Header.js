@@ -7,6 +7,7 @@ import slider7 from '../../Images/SliderImg/slider-7.jpg'
 
 const Header = () => {
     return (
+        // carosel header item
         <div>
             <Carousel fade>
                 <Carousel.Item>

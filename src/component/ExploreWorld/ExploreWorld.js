@@ -11,6 +11,7 @@ import exploreimg6 from '../../Images/explore-world/beautiful-6.jpg'
 
 const ExploreWorld = () => {
     return (
+        // exploreWorld
         <div>
             <h1 className="work-title text-center">Explore The World</h1>
             <p className="text-center fw-bold">Exploring new and different places always leads to great memories and stories to remember later in life.<br /> Also, when you meet new people, you can understand human psychology in a better way. There are lots of advantages of travelling.… </p>

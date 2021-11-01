@@ -7,6 +7,7 @@ import articleimg4 from '../../Images/article/article-4.jpg'
 
 const Article = () => {
     return (
+        // article section 
         <div className="container py-5">
             <h1 className="work-title text-center">Our Article</h1>
             <p className="fw-bold text-center">Tourism planning refers to the overall process of deploying the development goals, <br />And the implementation of a comprehensive tourism system.</p>
